@@ -1,0 +1,11 @@
+.videoSidebar{
+    position:absolute;
+    top: 50%;
+    right: 1em;
+    color: white;
+}
+
+.videoSidebar__button{
+    padding: 1em;
+    text-align: center;
+}
