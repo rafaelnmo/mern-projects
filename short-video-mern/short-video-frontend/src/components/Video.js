@@ -1,4 +1,4 @@
-import Reat, {useRef, useState} from 'react'
+import React, {useRef, useState} from 'react'
 import './Video.css'
 import VideoFooter from './VideoFooter'
 import VideoSidebar from     './VideoSidebar'
